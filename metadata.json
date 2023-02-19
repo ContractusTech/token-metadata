@@ -2,5 +2,5 @@
   "name": "Contractus Coin",
   "symbol": "CTUS",
   "description": "Coin of Contractus project.",
-  "image": "https://token-creator-lac.vercel.app/token_image.png"
+  "image": "https://raw.githubusercontent.com/ContractusTech/token-metadata/main/token_image.png"
 }
